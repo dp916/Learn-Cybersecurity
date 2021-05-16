@@ -2,15 +2,16 @@ Learn Cybersecurity via App Store
 
 https://apps.apple.com/us/app/learn-cybersecurity/id1556509824
 
+Reached over 1000+ downloads spanning 50 countries in 73 days
+
+![METADATA](https://user-images.githubusercontent.com/47507364/118404321-53275b00-b627-11eb-8ebb-32bb381cf32b.png)
+
 
 iOS App Store Keyword Search Rank
 
 ![KEYWORDS](https://user-images.githubusercontent.com/47507364/118404312-4b67b680-b627-11eb-9490-8139c2076458.png)
 
 
-Reached over 1000+ downloads spanning 50 countries in 73 days
-
-![METADATA](https://user-images.githubusercontent.com/47507364/118404321-53275b00-b627-11eb-8ebb-32bb381cf32b.png)
 
 ![NA](https://user-images.githubusercontent.com/47507364/118404328-59b5d280-b627-11eb-87b8-633deb256d55.png)
 
