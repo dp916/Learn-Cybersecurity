@@ -11,7 +11,11 @@ iOS App Store Keyword Search Rank
 
 ![KEYWORDS](https://user-images.githubusercontent.com/47507364/118404312-4b67b680-b627-11eb-9490-8139c2076458.png)
 
+Search Visibility Chart
 
+![VISIBILITY](https://user-images.githubusercontent.com/47507364/119026278-d3b4c700-b959-11eb-85bb-57596d242a4f.png)
+
+List of countries 
 
 ![NA](https://user-images.githubusercontent.com/47507364/118404328-59b5d280-b627-11eb-87b8-633deb256d55.png)
 
