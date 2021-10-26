@@ -1,28 +1,35 @@
-Learn Cybersecurity via App Store
+A free mobile app created to spread awareness about cybersecurity.
 
-https://apps.apple.com/us/app/learn-cybersecurity/id1556509824
+https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone
 
-Reached over 1000+ downloads spanning 50 countries in 73 days
 
-![METADATA](https://user-images.githubusercontent.com/47507364/118404321-53275b00-b627-11eb-8ebb-32bb381cf32b.png)
+Reached over 5000+ downloads spanning 90+ countries
+
+![Screen Shot 2021-10-25 at 11 55 53 PM](https://user-images.githubusercontent.com/47507364/138829203-a05aab62-445a-4064-8163-9315e71ecc64.png)
 
 
 iOS App Store Keyword Search Rank
 
-![KEYWORDS](https://user-images.githubusercontent.com/47507364/118404312-4b67b680-b627-11eb-9490-8139c2076458.png)
+![Screen Shot 2021-10-26 at 12 10 03 AM](https://user-images.githubusercontent.com/47507364/138829319-a46320f8-b191-47be-8f67-dee66cd23174.png)
 
-Search Visibility Chart
 
-![VISIBILITY](https://user-images.githubusercontent.com/47507364/119026278-d3b4c700-b959-11eb-85bb-57596d242a4f.png)
+Ratings & Reviews
 
-List of countries 
+![Screen Shot 2021-10-26 at 12 33 08 AM](https://user-images.githubusercontent.com/47507364/138829919-5b64ec7b-502b-46fb-a6fb-ffc92758e8fd.png)
 
-![NA](https://user-images.githubusercontent.com/47507364/118404328-59b5d280-b627-11eb-87b8-633deb256d55.png)
 
-![SA](https://user-images.githubusercontent.com/47507364/118404338-5fabb380-b627-11eb-88d9-cb7775ec3c89.png)
+Unique downloads by country
 
-![EURO](https://user-images.githubusercontent.com/47507364/118404345-6df9cf80-b627-11eb-9c1f-a25c09ec32a4.png)
+![Screen Shot 2021-10-26 at 12 13 26 AM](https://user-images.githubusercontent.com/47507364/138830673-dc406a0d-93e3-4cd7-ab57-3451f891d677.png)
 
-![AFRICA](https://user-images.githubusercontent.com/47507364/118404350-73571a00-b627-11eb-98e3-ed346f13c912.png)
+![Screen Shot 2021-10-26 at 12 17 20 AM](https://user-images.githubusercontent.com/47507364/138830693-1d7c7796-0666-42f5-8673-44096937b020.png)
+![Screen Shot 2021-10-26 at 12 18 22 AM](https://user-images.githubusercontent.com/47507364/138830717-93e4305b-165b-4360-a8f5-68d39288f235.png)
 
-![ASIA](https://user-images.githubusercontent.com/47507364/118404360-77833780-b627-11eb-8509-bd3a602e79ec.png)
+![Screen Shot 2021-10-26 at 12 20 04 AM](https://user-images.githubusercontent.com/47507364/138830750-a028365d-a6f3-4ad0-bf41-467e0e1f743d.png)
+![Screen Shot 2021-10-26 at 12 20 21 AM](https://user-images.githubusercontent.com/47507364/138830763-f116d116-2ecd-4e26-9467-7a85e0532790.png)
+![Screen Shot 2021-10-26 at 12 20 41 AM](https://user-images.githubusercontent.com/47507364/138830808-49fd263e-4804-4605-8a27-5cedc17b6cc0.png)
+
+![Screen Shot 2021-10-26 at 12 21 46 AM](https://user-images.githubusercontent.com/47507364/138830833-9398e948-4bd1-448c-8465-d458f8d160bd.png)
+![Screen Shot 2021-10-26 at 12 22 12 AM](https://user-images.githubusercontent.com/47507364/138830855-a2d6dda4-43b4-4766-bfa4-e0cde93ecadb.png)
+
+![Screen Shot 2021-10-26 at 12 22 45 AM](https://user-images.githubusercontent.com/47507364/138830880-9ed62285-b673-47be-9b17-690257a899ee.png)
