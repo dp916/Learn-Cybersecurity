@@ -3,33 +3,58 @@ A free mobile app created to spread awareness about cybersecurity.
 https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone
 
 
-Reached over 5000+ downloads spanning 90+ countries
+App Store Connect Analytics
 
-![Screen Shot 2021-10-25 at 11 55 53 PM](https://user-images.githubusercontent.com/47507364/138829203-a05aab62-445a-4064-8163-9315e71ecc64.png)
+<img width="1439" alt="Screen Shot 2022-01-11 at 5 29 45 AM" src="https://user-images.githubusercontent.com/47507364/148956851-5bd08025-7fe6-4a96-8b53-e2389c301c12.png">
+
+
+<img width="1436" alt="Screen Shot 2022-01-11 at 5 30 46 AM" src="https://user-images.githubusercontent.com/47507364/148956876-41b658b3-3ec7-4306-b6a9-cab983b5e920.png">
+
+
+<img width="1440" alt="Screen Shot 2022-01-11 at 5 31 15 AM" src="https://user-images.githubusercontent.com/47507364/148956916-16d2d2e3-b336-4fa9-b832-38ba1469a189.png">
+
+
+<img width="1434" alt="Screen Shot 2022-01-11 at 5 31 41 AM" src="https://user-images.githubusercontent.com/47507364/148956948-1da60235-73ff-4903-810f-a8c28372f401.png">
+
+
+<img width="1444" alt="Screen Shot 2022-01-11 at 5 32 59 AM" src="https://user-images.githubusercontent.com/47507364/148956983-8b77ea9c-2a97-4089-a4c8-72aac344dcba.png">
+
+
+
+Reached over 7000+ downloads spanning 100+ countries
+
+<img width="1194" alt="Screen Shot 2022-01-11 at 5 45 46 AM" src="https://user-images.githubusercontent.com/47507364/148954199-1b6bbe3e-e1a1-40dd-8ae2-48f611d27b34.png">
+
 
 
 iOS App Store Keyword Search Rank
 
-![Screen Shot 2021-10-26 at 12 10 03 AM](https://user-images.githubusercontent.com/47507364/138829319-a46320f8-b191-47be-8f67-dee66cd23174.png)
+<img width="1078" alt="Screen Shot 2022-01-11 at 5 54 04 AM" src="https://user-images.githubusercontent.com/47507364/148955568-7d0bfd1c-bde7-49c7-8bb2-fc62ae13db51.png">
 
 
 Ratings & Reviews
 
-![Screen Shot 2021-10-26 at 12 33 08 AM](https://user-images.githubusercontent.com/47507364/138829919-5b64ec7b-502b-46fb-a6fb-ffc92758e8fd.png)
+<img width="577" alt="Screen Shot 2022-01-11 at 6 00 55 AM" src="https://user-images.githubusercontent.com/47507364/148957099-1e6557d7-6a9a-4af9-a7a7-46fececfb64a.png">
+
 
 
 Unique downloads by country
 
-![Screen Shot 2021-10-26 at 12 13 26 AM](https://user-images.githubusercontent.com/47507364/138830673-dc406a0d-93e3-4cd7-ab57-3451f891d677.png)
+<img width="1208" alt="Screen Shot 2022-01-11 at 6 05 02 AM" src="https://user-images.githubusercontent.com/47507364/148958396-16d3443d-a8b4-4ed5-ab08-7edafbddce51.png">
 
-![Screen Shot 2021-10-26 at 12 17 20 AM](https://user-images.githubusercontent.com/47507364/138830693-1d7c7796-0666-42f5-8673-44096937b020.png)
-![Screen Shot 2021-10-26 at 12 18 22 AM](https://user-images.githubusercontent.com/47507364/138830717-93e4305b-165b-4360-a8f5-68d39288f235.png)
 
-![Screen Shot 2021-10-26 at 12 20 04 AM](https://user-images.githubusercontent.com/47507364/138830750-a028365d-a6f3-4ad0-bf41-467e0e1f743d.png)
-![Screen Shot 2021-10-26 at 12 20 21 AM](https://user-images.githubusercontent.com/47507364/138830763-f116d116-2ecd-4e26-9467-7a85e0532790.png)
-![Screen Shot 2021-10-26 at 12 20 41 AM](https://user-images.githubusercontent.com/47507364/138830808-49fd263e-4804-4605-8a27-5cedc17b6cc0.png)
+<img width="1085" alt="Screen Shot 2022-01-11 at 6 07 21 AM" src="https://user-images.githubusercontent.com/47507364/148958470-772fa94d-47e3-45ed-813c-da0288fa5ec9.png">
+<img width="1093" alt="Screen Shot 2022-01-11 at 6 07 37 AM" src="https://user-images.githubusercontent.com/47507364/148958523-ccbf9fda-c7c3-4bc5-8497-f568364df15a.png">
 
-![Screen Shot 2021-10-26 at 12 21 46 AM](https://user-images.githubusercontent.com/47507364/138830833-9398e948-4bd1-448c-8465-d458f8d160bd.png)
-![Screen Shot 2021-10-26 at 12 22 12 AM](https://user-images.githubusercontent.com/47507364/138830855-a2d6dda4-43b4-4766-bfa4-e0cde93ecadb.png)
 
-![Screen Shot 2021-10-26 at 12 22 45 AM](https://user-images.githubusercontent.com/47507364/138830880-9ed62285-b673-47be-9b17-690257a899ee.png)
+<img width="1090" alt="Screen Shot 2022-01-11 at 6 08 51 AM" src="https://user-images.githubusercontent.com/47507364/148958790-311be793-6b37-46af-a995-510798701013.png">
+<img width="1093" alt="Screen Shot 2022-01-11 at 6 09 12 AM" src="https://user-images.githubusercontent.com/47507364/148958822-4ff7e886-fa83-4c33-83e2-0eea9535474e.png">
+
+<img width="1081" alt="Screen Shot 2022-01-11 at 6 09 51 AM" src="https://user-images.githubusercontent.com/47507364/148958869-8846cb37-6c96-4513-8604-05dc26557c0b.png">
+<img width="1098" alt="Screen Shot 2022-01-11 at 6 10 00 AM" src="https://user-images.githubusercontent.com/47507364/148958906-33411baf-65c3-4eec-b800-7b9dda678f74.png">
+
+
+<img width="1093" alt="Screen Shot 2022-01-11 at 6 10 25 AM" src="https://user-images.githubusercontent.com/47507364/148958935-27be9da1-db16-489b-8e5c-15ce93129f92.png">
+
+
+
